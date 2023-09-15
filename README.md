@@ -25,7 +25,7 @@ Para interactuar con la plataforma web por favor accede a: <a href="https://lili
 ## 🛠 Cómo usar
 ¡Hola!
 Hoy estoy felíz de publicar mi porfolio, en el mismo podrás ver mi Tech Stack, algunos de mis proyectos, y contactarme en el caso de que así lo desees.
-El mismo cuenta con un diseño respondive para adaptarse a todo tipo de dispositivos. 
+El mismo cuenta con un diseño responsive para adaptarse a todo tipo de dispositivos. 
 No dudes por favor, en enviarme ideas o recomendaciones de mejora del mismo, te lo agradeceré muchisimo.
 De igual manera, si estas interesado en que te hable de alguna funcionalidad, no dudes en consultarme.
 
