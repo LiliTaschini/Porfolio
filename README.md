@@ -30,7 +30,7 @@ No dudes por favor, en enviarme ideas o recomendaciones de mejora del mismo, te 
 De igual manera, si estas interesado en que te hable de alguna funcionalidad, no dudes en consultarme.
 
 ## ⚙ Otros Recursos Utilizados
-También usé Bootstrap y Email.JS para gestionar el CONTACTAME
+También usé Bootstrap para el diseño y Email.JS para gestionar el Get in Touch
 
 ## Estado del Proyecto
  En Desarrollo.
